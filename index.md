@@ -53,3 +53,5 @@ It's time to rest, for you, and for those you have carried in your arms.
 This ends.
 For all of us.
 End communication.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
